@@ -22,7 +22,11 @@ Welcome to Curs Doc as Code's documentation!
 
    test
 
+.. code-block:: bash
+  :linenos:
 
+  cp home
+  cp build docs
 
 Indices and tables
 ==================
