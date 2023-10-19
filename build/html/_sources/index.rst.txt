@@ -5,10 +5,22 @@
 
 Welcome to Curs Doc as Code's documentation!
 ============================================
+**Cârcei Ioan**
+
+:Lista elemente:
+  - Elementul 1
+  - Elementul 2
+
+:Lista numerotata:
+  #. Elementul y
+  #. Elementul z
+  #. Elementul q
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Cuprins:
+
+   test
 
 
 
